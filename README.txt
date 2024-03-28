@@ -24,5 +24,4 @@ Directory structure of the project
 
 Contacts
 ---------------------------------------------------------------------------------------------
-Yan: mny9md@virginia.edu
-Andrew: grimshaw@virginia.edu
+Removed for anonymity
